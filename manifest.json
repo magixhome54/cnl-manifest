@@ -1,7 +1,7 @@
 {
   "name": "Club Nautique de Longuyon",
   "short_name": "C.N.L.",
-  "start_url": "/",
+  "start_url": "https://club-nautique-longuyon.kesug.com/index-membre.php?page=dashboard",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0d6efd",
